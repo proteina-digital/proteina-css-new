@@ -3,7 +3,7 @@
 One Paragraph of project description goes here
 
 ## Getting Started
-
+Adicione ao html embed:
 ```
 <link rel="stylesheet" type="text/css" href="https://raw.githack.com/proteina-digital/proteina-css/master/mestre.min.css">
 ```
