@@ -1,4 +1,5 @@
-        @media screen and (max-width: 768px) {
+/* versão 1.0 */        
+@media screen and (max-width: 768px) {
             .w-container {
                 width: 90%;
                 margin: 0 auto;
